@@ -1,1 +1,1 @@
-# College-buddy
+# CollegeBuddy.github.io
